@@ -1,1 +1,1 @@
-# expense-sharing
+# Expense Sharing
