@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "342609743193",
+    "project_id": "expense-sharing-app-1c1a9",
+    "storage_bucket": "expense-sharing-app-1c1a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342609743193:android:a42e5ac73a8b87d6251048",
+        "android_client_info": {
+          "package_name": "com.example.expensesharing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsOAHK0eC5V4XO08wRdvJTrHWdh2nKXoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
